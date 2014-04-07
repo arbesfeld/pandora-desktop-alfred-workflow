@@ -1,6 +1,6 @@
-# Alfred workflow for Pandora Desktop Client.
+## Alfred workflow for Pandora Desktop Client.
 
-## Usage
+### Usage
 
 > pann
 
